@@ -30,12 +30,12 @@ Click on the download icon (down arrow) next to your new credentials and save th
 
 Open a terminal and navigate to the directory where you saved your "credentials.json" file.
 Run the following commands to install the necessary packages:
-pip install flask pandas google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2 oauth2client
+        pip install flask pandas google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2 oauth2client
 
 <h2>Step 5: Run the Python Script</h2>
 
 In your terminal, navigate to the directory containing your "credentials.json" and "GDriveRevisions_html.py" files.
-Run the script with the command: python GDriveRevisions_html
+Run the script with the command:         python GDriveRevisions_html
 You will be prompted to authorize access your Google Drive. Follow the steps to grant permission.
 
 Step 6: View the Generated HTML Page
