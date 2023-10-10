@@ -5,7 +5,8 @@
 
 - Usage:
 
-Step 1: Create a New Project in Google Developers Console
+<font size=2>**Step 1:</font> 
+Create a New Project in Google Developers Console
 Go to Google Developers Console.
 Click on the "Select a project" dropdown, then click on the "New Project" button.
 Enter a name for your project and select a billing account (if you have one).
