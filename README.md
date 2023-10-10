@@ -5,7 +5,7 @@
 
 - Usage:
 
-<h2>Step 1: Create a New Project in Google Developers Console</h2>h2>
+<h2>**Step 1: Create a New Project in Google Developers Console**</h2>
 
 
 Go to Google Developers Console.
