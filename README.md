@@ -5,7 +5,7 @@
 
 - Usage:
 
-<font size="3">**Step 1:**</font> 
+<font size="5">**Step 1:**</font> 
 
 Create a New Project in Google Developers Console
 Go to Google Developers Console.
