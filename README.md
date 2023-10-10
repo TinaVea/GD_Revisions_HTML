@@ -42,7 +42,6 @@ Go to Google Developers Console.
 
 - You will be prompted to authorize access your Google Drive. Follow the steps to grant permission.
 
-Step 6: View the Generated HTML Page
+<h2>Step 6: View the Generated HTML Page</h2>
 - After you've authorized access, the HTML will be generated as Drive_Structure.html in the same directory.
 - NB! If html is not created, after granting access terminate the script and restart. This should create the html in current directory.
-
