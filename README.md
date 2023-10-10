@@ -38,7 +38,7 @@ Run the following commands to install the necessary packages:
 In your terminal, navigate to the directory containing your "credentials.json" and "GDriveRevisions_html.py" files.
 Run the script with the command:
 
-<sup>python GDriveRevisions_html</sup>
+```python GDriveRevisions_html.py```
 
 You will be prompted to authorize access your Google Drive. Follow the steps to grant permission.
 
